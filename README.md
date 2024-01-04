@@ -10,7 +10,7 @@
 - [Mubashar Nouman](https://www.youtube.com/@haseebbaig05
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Founder & CEO AR COMPUTER.pk 🤖
 	
 👨‍💻 Lead NLP Developer at HandyHelps
 
