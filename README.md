@@ -64,9 +64,7 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
     </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
+ 
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
@@ -77,9 +75,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/haseebbaig/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:haseebbaig05@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/haseebbaig2023/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haseebbaig/"><img src="https://img.shields.io/badge/-haseebbaig-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:haseebbaig05@gmail.com"><img src="https://img.shields.io/badge/-haseebbaig05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/haseebbaig2023/"><img src="https://img.shields.io/badge/-@haseebbaig2023-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
