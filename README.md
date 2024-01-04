@@ -1,12 +1,12 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Haseeb baig👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Haseeb baig👋<a href="https://form-submit-tvcp.vercel.app/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 <!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
+- [Mubashar Nouman](https://www.youtube.com/@haseebbaig05
  -->
 
 🤵 Founder & CEO of @techviochats @internee.pk 🤖
@@ -25,13 +25,13 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 haseebbaig05@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://form-submit-tvcp.vercel.app
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/haseeb-baig-b49b9927b/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://www.instagram.com/haseebbaig2023/
  
 <h2>Tech Stack</h2>
 
